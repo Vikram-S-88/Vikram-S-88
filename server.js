@@ -7,3 +7,5 @@ console.log("hello nice to meet ya!!")
 var a;
 a=10;
 console.log(a)
+
+//
